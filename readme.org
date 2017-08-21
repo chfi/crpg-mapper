@@ -1,0 +1,3 @@
+A tool for mapping old tile-based CRPGs (Pool of Radiance etc.)
+
+Written in Purescript
